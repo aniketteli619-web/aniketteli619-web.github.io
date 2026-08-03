@@ -1,2 +1,2 @@
-# aniketteli619-web.github.io
+# aniketdesign-web.github.io
 Mechanical Design Portfolio
